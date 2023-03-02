@@ -1,0 +1,15 @@
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\bin\Debug\net6.0\eleição.exe
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\bin\Debug\net6.0\eleição.deps.json
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\bin\Debug\net6.0\eleição.runtimeconfig.json
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\bin\Debug\net6.0\eleição.dll
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\bin\Debug\net6.0\ref\eleição.dll
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\bin\Debug\net6.0\eleição.pdb
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\obj\Debug\net6.0\eleição.csproj.AssemblyReference.cache
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\obj\Debug\net6.0\eleição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\obj\Debug\net6.0\eleição.AssemblyInfoInputs.cache
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\obj\Debug\net6.0\eleição.AssemblyInfo.cs
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\obj\Debug\net6.0\eleição.csproj.CoreCompileInputs.cache
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\obj\Debug\net6.0\eleição.dll
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\obj\Debug\net6.0\ref\eleição.dll
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\obj\Debug\net6.0\eleição.pdb
+C:\Users\miguel.pveloso\source\repos\eleição\eleição\obj\Debug\net6.0\eleição.genruntimeconfig.cache
